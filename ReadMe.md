@@ -14,9 +14,6 @@ Programming Software and Frameworks: React, Git, VS Code, IntelliJ, Node.js
 Relevant coursework: Data Structures, Software Design, Computer Hardware
 
 
-(If you already have a separate “About Me” README file on the landing page) Include a list of important or impressive projects, or the projects you are currently working on. Then add links to the repos, as well, so visitors can easily click. 
-(If you don’t want to write an “About Me” summary) Create a special “Table of Contents” README file instead. Including each project’s title, basic description, tools used, and again, add links to the repos. 
-
                                         ┌─ Projects ─┐
                                         └────────────┘
 Phishing data sorter-- model written in Python that utilizes information in a CSV file in order to

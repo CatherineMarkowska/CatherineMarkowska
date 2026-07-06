@@ -1,3 +1,9 @@
+                                        ┌─ Contact Info ─┐
+                                        └────────────────┘
+Email: catherinemarkowska@gmail.com
+LinkedIn: linkedin.com/in/catherinemarkowska/ 
+                                        
+                                        
                                         ┌─ About Me ─┐
                                         └────────────┘
 
@@ -12,7 +18,6 @@ Outside of UIC, I want to bring my skills to a Chicago-based company that's focu
 Programming Languages:  C++, C, Java
 Programming Software and Frameworks: React, Git, VS Code, IntelliJ, Node.js
 Relevant coursework: Data Structures, Software Design, Computer Hardware
-
 
                                         ┌─ Projects ─┐
                                         └────────────┘
